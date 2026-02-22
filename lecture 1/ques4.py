@@ -1,0 +1,8 @@
+'''WAP input 2 int numbers a,b,
+Print True if a is greater than or equal to b
+If not print False'''
+
+a = int(input("Enter num1: "))
+b = int(input("Enter num2: "))
+
+print(a>=b)
